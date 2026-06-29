@@ -1,4 +1,5 @@
 import 'dotenv/config';
+
 import express from 'express';
 import mongoose from 'mongoose';
 import connectDB from './src/db/db.js';
